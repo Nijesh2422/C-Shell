@@ -1,0 +1,15 @@
+echo > a.txt hi
+cat < a.txt 
+cat < a.txt > b.txt
+clear
+warp ..
+peek
+cat a.txt
+warp -
+peek
+cat a.txt
+clear
+warp ..
+peek
+cat a.txt
+warp < a.txt

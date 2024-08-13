@@ -1,0 +1,2 @@
+main:
+	gcc -g main.c prompt.c warp.c peek.c execute.c pastevents.c proclore.c tokens.c seek.c redirection.c semicolontokens.c background.c pipetoken.c piping.c activities.c ping.c signals.c neonate.c iman.c -lm
